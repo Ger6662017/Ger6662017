@@ -1,4 +1,4 @@
-avalanche -h### Hi there 👋
+### Hi there 👋
 
 <!--
 **Ger6662017/Ger6662017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
